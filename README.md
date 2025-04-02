@@ -25,7 +25,7 @@
   <li><a href="###">Тест-кейсы</a></li>
   <li><a href="###">Баг-репорт</a></li>
   <li><a href="https://github.com/ipm901/Update-sql/tree/main">Работа с SQL-запросами</a></li>
-  <li><a href="###">Тестирование API. Postman</a></li>
+  <li><a href="https://github.com/ipm901/-API.-Postman/blob/main/README.md">Тестирование API. Postman</a></li>
 </ul>  
 
 <h2>Сертификаты:</h2>
