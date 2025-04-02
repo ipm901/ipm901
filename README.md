@@ -21,19 +21,20 @@
 <h2>Тестовая документация (примеры моих работ):</h2>
 
 <ul>
-  <li>Чек-лист</li>
-  <li>Тест-кейсы</li>
-  <li>Баг-репорт</li>
-  <li>Работа с SQL-запросами</li>
-  <li>Тестирование API. Postman</li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Чек-лист</a></li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Тест-кейсы</a></li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Баг-репорт</a></li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Работа с SQL-запросами</a></li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Тестирование API. Postman</a></li>
 </ul>  
 
 <h2>Сертификаты:</h2>
 
 <ol>
-  <li>QA manual</li>
-  <li>Chrome Dev Tools полный курс </li>
-  <li>Тестирование ПО: Postman для тестирования API</li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">QA manual</a></li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Chrome Dev Tools полный курс </a></li>
+  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Тестирование ПО: Postman для тестирования API</a></li>
 </ol> 
+
 </body>
 
