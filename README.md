@@ -21,11 +21,11 @@
 <h2>Тестовая документация (примеры моих работ):</h2>
 
 <ul>
-  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Чек-лист</a></li>
-  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Тест-кейсы</a></li>
-  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Баг-репорт</a></li>
-  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Работа с SQL-запросами</a></li>
-  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">Тестирование API. Postman</a></li>
+  <li><a href="###">Чек-лист</a></li>
+  <li><a href="###">Тест-кейсы</a></li>
+  <li><a href="###">Баг-репорт</a></li>
+  <li><a href="###">Работа с SQL-запросами</a></li>
+  <li><a href="###">Тестирование API. Postman</a></li>
 </ul>  
 
 <h2>Сертификаты:</h2>
