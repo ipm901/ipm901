@@ -31,7 +31,7 @@
 <h2>Сертификаты:</h2>
 
 <ol>
-  <li><a href="https://github.com/Asmoday87/Asmoday87/blob/main/checklist.md">QA manual</a></li>
+  <li><a href="https://github.com/ipm901/Qa/blob/main/MIKHAIL%20MAKIN.png">QA manual</a></li>
   <li><a href="https://stepik.org/cert/2802614">Chrome Dev Tools полный курс </a></li>
   <li><a href="https://stepik.org/cert/2789301">Тестирование ПО: Postman для тестирования API</a></li>
 </ol> 
